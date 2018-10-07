@@ -63,11 +63,9 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "herlin.simon@gmail.com"
-  address = "33 rue Louis Constant Villeneuve d'ascq 59491 France"
+  address = "33 rue Louis Constant, 59491 Villeneuve d'ascq, France"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+33 7 83 82 44 89"
-  skype = "echo123"
-  telegram = ""
   keybase = ""  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
@@ -240,22 +238,22 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:test@example.org"
+    link = "mailto:herlin.simon@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
     link = "//twitter.com/HerlinSimon"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  #[[params.social]]
+  #  icon = "google-scholar"
+  #  icon_pack = "ai"
+  #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "//github.com/gcushen"
+    link = "//github.com/simonherlin"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
