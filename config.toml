@@ -51,21 +51,21 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Simon Herlin"
+  role = "Student in master I2L"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "ULCO", url = "http://dpt-info.univ-littoral.fr/wiki/I2L:Accueil" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "photo_profil.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "herlin.simon@gmail.com"
+  address = "33 rue Louis Constant Villeneuve d'ascq 59491 France"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
+  phone = "+33 7 83 82 44 89"
   skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -245,7 +245,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/HerlinSimon"
 
   [[params.social]]
     icon = "google-scholar"
