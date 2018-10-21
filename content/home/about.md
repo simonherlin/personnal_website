@@ -37,5 +37,3 @@ weight = 1
 # Biography
 
 I'm a passionate IT student in master's degree in IT. I love conputer sciences especially domais of Artificial Intelligence. After the end of my master's degree I would like to go to PhD in Artificial Intelligence.
-
-
