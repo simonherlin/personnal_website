@@ -64,7 +64,6 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "herlin.simon@gmail.com"
   address = "33 rue Louis Constant, 59491 Villeneuve d'ascq, France"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+33 7 83 82 44 89"
   keybase = ""  # Your keybase.io username.
 
@@ -87,10 +86,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "50.65514169999999"
+  longitude = "3.1373232999999345"
   zoom = 15
 
   # SITE SETUP
